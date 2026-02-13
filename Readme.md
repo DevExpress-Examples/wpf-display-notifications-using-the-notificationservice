@@ -42,7 +42,7 @@ Once complete, assign *sample_notification_app* to the `NotificationService.Ap
 * [Notification Service](https://docs.devexpress.com/WPF/18138/mvvm-framework/services/predefined-set/notificationservice)
 * [UI Services](https://docs.devexpress.com/WPF/17414/mvvm-framework/services)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-notifications-using-the-notificationservice&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-notifications-using-the-notificationservice&~~~was_helpful=no)
 
