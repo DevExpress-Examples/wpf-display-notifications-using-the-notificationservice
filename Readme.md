@@ -46,7 +46,7 @@ Once complete, assign *sample_notification_app* to the `NotificationService.Ap
 
 * [WPF NotificationService - Create Interactive Notifications](https://github.com/DevExpress-Examples/wpf-notificationservice-create-interactive-notifications)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-notifications-using-the-notificationservice&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-notifications-using-the-notificationservice&~~~was_helpful=no)
 
